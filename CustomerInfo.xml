@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<company>
+	<customer id="0889990000">
+		<firstname>Irfan</firstname>
+		<lastname>Kuechi</lastname>
+		<img>irfan.jpg</img>
+	</customer>
+	<customer id="0875557777">
+		<firstname>Susan</firstname>
+		<lastname>Cheloh</lastname>
+		<img>susan.jpg</img>
+	</customer>
+	<customer id="0883334444">
+		<firstname>Pang</firstname>
+		<lastname>Chiru</lastname>
+		<img>pang.jpg</img>
+	</customer>
+</company>
